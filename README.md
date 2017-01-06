@@ -1,2 +1,2 @@
 # Coursera-Winnie-test
-HTML SLL JAVASCRIPT
+HTML CSS JAVASCRIPT
